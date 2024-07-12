@@ -6,7 +6,7 @@ form.addEventListener("submit",(e) => {
     if (inputs[0].value == "" || inputs[1].value == "" || inputs[2].value == "" ) {
         alert('Please Enter Details Carefully');
     }
-    if(inputs[1] != inputs[2]) {
+    if(inputs[1].value != inputs[2].value) {
         alert("Please fill password correctly");
     }
 })
