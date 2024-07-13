@@ -6,5 +6,5 @@
 ### Task-4 : To create an unordered list. Allow users to add and remove list items dynamically using buttons. [Live Demo](https://raw.githack.com/Aditya-Sharma-07/practice-js/main/task-4/index.html)<br>
 ### Task-5 : To build a countdown timer that starts when a button is clicked and updates the display in real-time. [Live Demo](https://raw.githack.com/Aditya-Sharma-07/practice-js/main/task-5/index.html)<br>
 ### Task-6 : To create a tabbed interface where clicking on tabs displays different content sections without page reload. [Live Demo](https://raw.githack.com/Aditya-Sharma-07/practice-js/main/task-6/index.html)<br>
-### Task-7 : To create a progress bar that updates in real time, showing the process of a task, download, or form submission. [Live Demo]()<br>
+### Task-7 : To create a progress bar that updates in real time, showing the process of a task, download, or form submission. [Live Demo](https://raw.githack.com/Aditya-Sharma-07/practice-js/main/task-7/index.html)<br>
 - Aditya Sharma
