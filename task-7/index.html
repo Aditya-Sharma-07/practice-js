@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        * {
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+        }
+        
+        html, body {
+          height: 100%;
+          width: 100%;
+          background-color: black;
+        }
+        .contain{
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background-color: rgb(255, 130, 130);
+            height: 30%;
+            width: 60%;
+            display: flex;
+            justify-content: center;
+            flex-direction: column;
+            padding: 1rem;
+            border-radius: 2rem 1rem 2rem 1rem;
+            color: aliceblue;
+        }
+        .progress{
+            background-color: greenyellow;
+            min-height: 5%;
+            max-height: 5%;
+            border-radius: 0.5rem;
+            width: 0.01%;
+            transition: all cubic-bezier(.39,-0.28,1,-0.08);
+        }
+    </style>
+</head>
+<body>
+    <div class="contain">
+        <h4>Downloading file...</h4>
+        <div class="progress">
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
