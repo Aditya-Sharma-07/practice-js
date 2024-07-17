@@ -8,5 +8,5 @@
 ### Task-6 : To create a tabbed interface where clicking on tabs displays different content sections without page reload. [Live Demo](https://raw.githack.com/Aditya-Sharma-07/practice-js/main/task-6/index.html)<br>
 ### Task-7 : To create a progress bar that updates in real time, showing the process of a task, download, or form submission. [Live Demo](https://raw.githack.com/Aditya-Sharma-07/practice-js/main/task-7/index.html)<br>
 ### Task-8 : To create a search bar that displays live search results as users type, updating the results without requiring a full page reload. [Live Demo](https://raw.githack.com/Aditya-Sharma-07/practice-js/main/task-8/index.html)<br>
-### Task-9 : Build a character counter for a text area or input field, which updates in real time user tyes and enforces a character limit. [Live Demo]()<br>
+### Task-9 : Build a character counter for a text area or input field, which updates in real time user tyes and enforces a character limit. [Live Demo](https://raw.githack.com/Aditya-Sharma-07/practice-js/main/task-9/index.html)<br>
 - Aditya Sharma
